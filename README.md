@@ -1,8 +1,6 @@
 ### Hello World! I'm Batman
 
-<div style=" height: 100px " >
-<img align ="center" alt="html" src="img/logo b.gif">
-</div>
+
 
 
 
@@ -29,7 +27,4 @@
 <img align ="center" alt="html" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 </div>
 
-<div style="width: 100px" id="">
-<img  align=" center" alt="html" src="img/batman.gif">
-</div>
 
