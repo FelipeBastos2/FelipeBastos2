@@ -12,7 +12,7 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/authwall?trk=bf&trkInfo=AQHtuKbdVgsk3QAAAY3MV2TAHQwFP-L8gL_9qHwUWDLo2jDt9j-zR2eXov-y4Sfj2Wg7tXStmgMx0XAJtylM9O_4Ut5la-4Tnd2uzj0YOXVdzQpW1YHUMrbZUynB-SW_2WxDd5g=&original_referer=&sessionRedirect=https%3A%2F%2Fwww.linkedin.com%2Fin%2Ffelipe-bastos-dev%3Futm_source%3Dshare%26utm_campaign%3Dshare_via%26utm_content%3Dprofile%26utm_medium%3Dios_app)
 
-## Tools ➘ 💾
+## Skills ➘ 💾
 
 
 
